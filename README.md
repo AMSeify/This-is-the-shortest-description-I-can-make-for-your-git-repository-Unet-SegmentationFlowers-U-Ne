@@ -1,5 +1,3 @@
-This is a possible rewrite for a single .ipynb file:
-
 # Unet-SegmentationFlowers
 
 In this notebook, we will use the U-Net architecture to perform semantic segmentation on the tf_flower dataset. Semantic segmentation is a computer vision task that involves assigning a label to each pixel in an image, indicating which object or class it belongs to. For example, in an image of a garden, semantic segmentation can identify which pixels belong to roses, sunflowers, daisies, etc.
